@@ -1,0 +1,72 @@
+
+.div-container_card{
+  overflow-y: auto ;
+  
+}
+
+.imgcarro{
+  width: 180px;
+  height: 180px;
+}
+
+.div-sincompra {
+  width: 300px;
+  height: 300px;
+}
+
+.closed-compra {
+  color: white;
+  text-decoration: none;
+  font-size: 35px;
+  border-radius: 50%;
+  margin:  0px 4px;
+  padding: 0px;
+  border-radius: 50%;
+  
+  
+}
+
+.div-closed-compra {   
+    
+    background-color: rgb(11, 11, 82) ;
+    border-radius: 50%;
+}
+
+
+
+.img-cart{
+    height: 70px;
+    width: 70px;
+}
+
+.div-remove{
+ height: 30px;
+ margin-top: 10px;
+}
+
+.container_card{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin: 0 auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    width: 100%;
+    height: 40rem;
+    max-width: 960px;
+    
+  }  
+
+.boton-count{
+    width: 40px;
+    height: 40px;
+}
+
+.div-compra{
+    width: 350px;
+    height: auto;
+}
+
+.btn {
+  margin-top: 5px;
+}
+

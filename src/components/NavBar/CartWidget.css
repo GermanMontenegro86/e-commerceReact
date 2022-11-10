@@ -1,0 +1,15 @@
+.Carrito{
+    transform: translate(399px, -2px);
+    font-size: 2em;
+
+}
+
+@media screen and (max-width: 1024px){
+    .Carrito{
+        transform: translate(0px, -2px);
+       font-size: 2em;
+    
+    }
+}
+
+

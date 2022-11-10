@@ -1,0 +1,21 @@
+.count{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.btnCount{
+    background: red;
+}
+
+.agregar{
+    margin-left: 237px;
+}
+
+@media screen and (max-width: 1024px){
+    .agregar{
+        margin-left: 110px;
+    }
+}

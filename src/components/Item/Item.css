@@ -1,0 +1,33 @@
+.card{
+    align-items: center;
+  }
+  
+  
+  article {
+      border: 1px solid #ccc;
+      box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+      
+    }
+  article img {
+      object-fit: cover;
+      width:300px;
+      height:300px;
+      
+     
+    }
+  
+    .precio{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: brown;
+      background-color: aliceblue;
+    }
+   
+    text  button {
+      background: gray;
+      border: 0;
+      color: white;
+      padding: 10px;
+      width: 100%;
+      }
+  
+   

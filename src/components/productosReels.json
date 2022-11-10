@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "nombre":"Red fish super cast",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_623614-MLA45716492210_042021-O.webp",
+        "precio":5000,
+        "stock":1
+    },
+    {
+        "id":2,
+        "nombre":"Waterdog Murray",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_736145-MLA46259555637_062021-O.webp",
+        "precio":10000,
+        "stock":2
+    },
+    {
+        "id":3,
+        "nombre":"Caster Valiant",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_799246-MLA51561256202_092022-O.webp",
+        "precio":20000,
+        "stock":99
+    },
+    {
+        "id":4,
+        "nombre":"Spinnig variada",
+        "imagen":"https://cf.shopee.com.ar/file/65b8b6aa7c96f1fb82c77c9d88e3423f",
+        "precio":7000,
+        "stock":200
+    },
+    {
+        "id":5,
+        "nombre":"Shimano",
+        "imagen":" https://www.triestina.com.ar/wp-content/uploads/2019/10/CURADO-DC.jpg",
+        "precio":18000,
+        "stock":3
+    },
+    {
+        "id":6,
+        "nombre":"Marine sports",
+        "imagen":" https://http2.mlstatic.com/D_NQ_NP_650666-MLA31584971045_072019-O.jpg",
+        "precio":25000,
+        "stock":3
+    },
+    {
+        "id":7,
+        "nombre":"Weekrnd",
+        "imagen":" https://fotos.perfil.com/2019/10/11/cropped/696/696/center/1011carpas-790141.jpg",
+        "precio":80000,
+        "stock":3
+    },    {
+        "id":8,
+        "nombre":"Gran ruca",
+        "imagen":" https://www.triestina.com.ar/wp-content/uploads/2021/01/55480.jpg",
+        "precio":60000,
+        "stock":3
+    }
+   
+   
+   
+]
