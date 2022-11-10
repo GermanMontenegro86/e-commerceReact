@@ -7,7 +7,8 @@ Basicamente es un simulador de un Ecommerce
 Demo de la App:
 
 
-![2022-10-31 15-02-40](../mi-carro/public/videoPrueba/React%20App%20-%20Google%20Chrome%202022-11-10%2020-02-42.mp4)
+![React-App-Google-Chrome-2022-11-10-20-02-42](https://user-images.githubusercontent.com/107010198/201227959-14f7873d-48fc-4099-829a-07ae85107522.gif)
+
 
 
 
@@ -46,7 +47,7 @@ Y librerias externas como bootstrap, Aos y SweetAlert2 para darle un poco mas de
 
 1. Clone the repo
    ```sh
-   <!-- git clone https://github.com/AlexanderWindecker/reactjs-windecker.git -->
+   <!-- git clone https://github.com/GermanMontenegro86/e-commerceReact.git -->
    ```
 2. Install NPM packages
    ```sh
