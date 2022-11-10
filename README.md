@@ -7,7 +7,7 @@ Basicamente es un simulador de un Ecommerce
 Demo de la App:
 
 
-<!-- ![2022-10-31 15-02-40](https://user-images.githubusercontent.com/103127481/199079085-191f7365-de9c-482a-8d37-dcf95ba5f1e5.gif) -->
+![2022-10-31 15-02-40](../mi-carro/public/videoPrueba/React%20App%20-%20Google%20Chrome%202022-11-10%2020-02-42.mp4)
 
 
 
