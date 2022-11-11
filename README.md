@@ -7,7 +7,7 @@ Basicamente es un simulador de un Ecommerce
 Demo de la App:
 
 
-![React-App-Google-Chrome-2022-11-10-20-38-44](https://user-images.githubusercontent.com/107010198/201229521-a71a5792-bae4-4ccb-8b2d-c1ee0c2a46dd.gif)
+![React-App-Google-Chrome-2022-11-10-21-06-24](https://user-images.githubusercontent.com/107010198/201231974-ac2fe332-1eef-4b5f-9074-f901c505d162.gif)
 
 
 
